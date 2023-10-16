@@ -1,4 +1,4 @@
-[![Math Utility Repo applying CI](https://github.com/Popun1/math-util-mvn/actions/workflows/math-util-ci-maven.yml/badge.svg)](https://github.com/Popun1/math-util-mvn/actions/workflows/math-util-ci-maven.yml)
+[![Math Utility Repo applying CI]
 ### Welcome to Math Utility Reposiroty
 
 #### You will find in this repo the following stuff:
@@ -9,6 +9,4 @@
 * ...
 
 #### Screenshots
-![JUnit test script](https://github.com/Popun1/math-util-mvn/blob/main/screenshots/test%20script%20with%20junit.png)
-
-##### Copyright &#169; 2023 Popun1 | popun2003@gmail.com
+##### Copyright &#169; 2023 chinhbean09  | chinh0726@gmail.com
