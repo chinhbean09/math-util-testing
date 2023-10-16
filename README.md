@@ -1,4 +1,4 @@
-[![Math Utility Repo applying CI]
+![Math Utility Repo applying CI]
 ### Welcome to Math Utility Reposiroty
 
 #### You will find in this repo the following stuff:
